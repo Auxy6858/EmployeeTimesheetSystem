@@ -1,0 +1,14 @@
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\bin\Debug\net9.0\EmployeeTimesheetSys.exe
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\bin\Debug\net9.0\EmployeeTimesheetSys.deps.json
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\bin\Debug\net9.0\EmployeeTimesheetSys.runtimeconfig.json
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\bin\Debug\net9.0\EmployeeTimesheetSys.dll
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\bin\Debug\net9.0\EmployeeTimesheetSys.pdb
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.AssemblyInfoInputs.cache
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.AssemblyInfo.cs
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.csproj.CoreCompileInputs.cache
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.dll
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\refint\EmployeeTimesheetSys.dll
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.pdb
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\EmployeeTimesheetSys.genruntimeconfig.cache
+C:\Users\cambe\RiderProjects\EmployeeTimesheetSys\obj\Debug\net9.0\ref\EmployeeTimesheetSys.dll
